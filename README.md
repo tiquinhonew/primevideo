@@ -23,7 +23,7 @@ Em seguida:
 
 ## Autores
 
-- [Douglas Moraes](https://www.github.com/octokatherine)
+- [Douglas Moraes](https://github.com/tiquinhonew)
 
 ## Interface
 
